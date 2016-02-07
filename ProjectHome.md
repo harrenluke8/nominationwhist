@@ -1,0 +1,1 @@
+This project is to make a web version of the nomination whist card game
